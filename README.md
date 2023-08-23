@@ -6,7 +6,7 @@ Web Developer
 
 I am a passionate frontend developer specializing in web design using WordPress, HTML/CSS and JavaScript. I have always been fascinated by technology and how it can improve people's lives.
 
-* 🖥️  See my portfolio at [here](http://jonatantech.github.io)
+* 🖥️  See my portfolio [here](http://jonatantech.github.io)
 * ✉️  You can contact me at [jonatanpaulaweb@gmail.com](mailto:jonatanpaulaweb@gmail.com)
 
 ### Skills
@@ -14,8 +14,9 @@ I am a passionate frontend developer specializing in web design using WordPress,
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="/git-colored.svg" alt="jonatantech's GitHub stats" width="32" height="32"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="/javascript-colored.svg" alt="jonatantech's GitHub stats" width="32" height="32"/></a> ICON ICON ICON ICON ICON ICON
+<img src="/git-colored.svg" alt="git badge" width="32" height="32"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="/python-colored.svg" alt=" badge" width="32" height="32"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="/javascript-colored.svg" alt="javascript badge" width="32" height="32"/></a> ICON ICON ICON ICON ICON
 </p>
 
 
