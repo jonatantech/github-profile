@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a passionate frontend developer specializing in web design using WordPress, HTML/CSS and JavaScript. I have always been fascinated by technology and how it can improve people's lives.
+Front-end web developer hailing from the vibrant Dominican Republic. My passion lies in crafting exceptional user experiences through the art of front-end development. I'm an avid knowledge seeker, constantly exploring the latest trends and technologies. As a self-driven developer, I thrive on quick and inventive learning, adapting to new challenges with ease.
+
+Whether collaborating within a dynamic team or flying solo, I excel at delivering high-quality results.
 
 * 🖥️  See my portfolio <a href="http://jonatantech.github.io" target="_blank" rel="noreferrer">here</a>
 * ✉️  You can contact me at [jonatanpaulaweb@gmail.com](mailto:jonatanpaulaweb@gmail.com)
