@@ -9,7 +9,7 @@ I am a passionate frontend developer specializing in web design using WordPress,
 * 🖥️  See my portfolio <a href="http://jonatantech.github.io" target="_blank" rel="noreferrer">here</a>
 * ✉️  You can contact me at [jonatanpaulaweb@gmail.com](mailto:jonatanpaulaweb@gmail.com)
 
-### Languajes I use
+### Technologies I use
 
 
 <p align="left">
@@ -17,7 +17,8 @@ I am a passionate frontend developer specializing in web design using WordPress,
 <img src="/javascript-colored.svg" alt="javascript badge" width="32" height="32"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="/python-colored.svg" alt="python badge" width="32" height="32"/></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
 <img src="/html5-colored.svg" alt="html badge" width="32" height="32"/></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-<img src="/css3-colored.svg" alt="css badge" width="32" height="32"/></a>
+<img src="/css3-colored.svg" alt="css badge" width="32" height="32"/></a> <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
+<img src="/wordpress.png" alt="wordpress badge" width="32" height="32"/></a>
 </p>
 
 ### Tools I use
@@ -47,3 +48,7 @@ I am a passionate frontend developer specializing in web design using WordPress,
 <a href="http://www.github.com/jonatantech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jonatantech&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/jonatantech" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatantech&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonatantech&show_icons=true&theme=tokyonight" />
+</div>
