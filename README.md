@@ -36,8 +36,8 @@ I am a passionate frontend developer specializing in web design using WordPress,
 ### Socials
 
 <p align="left"> <a href="https://www.instagram.com/jonatan.tech" target="_blank" rel="noreferrer">
-<img src="/instagram.svg" alt="instagram badge" width="32" height="32"/></a> <a href="https://twitter.com/jonatanptech" target="_blank" rel="noreferrer">
-<img src="/twitter-dark.svg" alt="Twitter badge" width="32" height="32"/></a></p>
+<img src="/instagram.svg" alt="instagram badge" width="30" height="30"/></a> <a href="https://twitter.com/jonatanptech" target="_blank" rel="noreferrer">
+<img src="/twitter-dark.svg" alt="Twitter badge" width="30" height="30"/></a></p>
 
 ### Badges
 
