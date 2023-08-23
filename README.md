@@ -25,7 +25,8 @@ I am a passionate frontend developer specializing in web design using WordPress,
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="/git-colored.svg" alt="git badge" width="32" height="32"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="/git-colored.svg" alt="git badge" width="32" height="32"/></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="/vscode.svg" alt="VScode badge" width="32" height="32"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="/figma-colored.svg" alt="figma badge" width="32" height="32"/></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
 <img src="/photoshop-colored-dark.svg" alt="photoshop badge" width="32" height="32"/></a> <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
 <img src="/illustrator-colored-dark.svg" alt="illustrator badge" width="32" height="32"/></a>
