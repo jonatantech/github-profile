@@ -9,16 +9,23 @@ I am a passionate frontend developer specializing in web design using WordPress,
 * 🖥️  See my portfolio <a href="http://jonatantech.github.io" target="_blank" rel="noreferrer">here</a>
 * ✉️  You can contact me at [jonatanpaulaweb@gmail.com](mailto:jonatanpaulaweb@gmail.com)
 
-### Skills
+### Languajes I use
+
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="/javascript-colored.svg" alt="javascript badge" width="32" height="32"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="/python-colored.svg" alt="python badge" width="32" height="32"/></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+<img src="/html5-colored.svg" alt="html badge" width="32" height="32"/></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+<img src="/css3-colored.svg" alt="css badge" width="32" height="32"/></a>
+</p>
+
+### Tools I use
 
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="/git-colored.svg" alt="git badge" width="32" height="32"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="/javascript-colored.svg" alt="javascript badge" width="32" height="32"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="/python-colored.svg" alt="python badge" width="32" height="32"/></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-<img src="/html5-colored.svg" alt="html badge" width="32" height="32"/></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-<img src="/css3-colored.svg" alt="css badge" width="32" height="32"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="/git-colored.svg" alt="git badge" width="32" height="32"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="/figma-colored.svg" alt="figma badge" width="32" height="32"/></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
 <img src="/photoshop-colored-dark.svg" alt="photoshop badge" width="32" height="32"/></a> <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
 <img src="/illustrator-colored-dark.svg" alt="illustrator badge" width="32" height="32"/></a>
