@@ -44,7 +44,7 @@ I am a passionate frontend developer specializing in web design using WordPress,
 <b>My GitHub Stats</b>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonatantech&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-livid-iota.vercel.app/api?username=jonatantech&show_icons=true&theme=tokyonight" />
 </div>
 
 <a href="http://www.github.com/jonatantech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jonatantech&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
