@@ -13,7 +13,8 @@ I am a passionate frontend developer specializing in web design using WordPress,
 
 
 <p align="left">
-<img src="/github-dark.svg" alt="jonatantech's GitHub stats" width="32" height="32"/> ICON ICON ICON ICON ICON ICON ICON
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="/git-colored.svg" alt="jonatantech's GitHub stats" width="32" height="32"/></a?> ICON ICON ICON ICON ICON ICON ICON
 </p>
 
 
