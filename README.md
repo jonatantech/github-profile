@@ -6,7 +6,7 @@ Web Developer
 
 I am a passionate frontend developer specializing in web design using WordPress, HTML/CSS and JavaScript. I have always been fascinated by technology and how it can improve people's lives.
 
-* 🖥️  See my portfolio [here](http://jonatantech.github.io)
+* 🖥️  See my portfolio <a href="http://jonatantech.github.io" target="_blank" rel="noreferrer">here</a>
 * ✉️  You can contact me at [jonatanpaulaweb@gmail.com](mailto:jonatanpaulaweb@gmail.com)
 
 ### Skills
