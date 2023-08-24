@@ -1,10 +1,10 @@
 Hi! 👋 My name is Jonatan.
 ===============================================================================================================================
 
-Web Developer
+Frontend Developer
 -------------
 
-Front-end web developer hailing from the vibrant Dominican Republic. My passion lies in crafting exceptional user experiences through the art of front-end development. I'm an avid knowledge seeker, constantly exploring the latest trends and technologies. As a self-driven developer, I thrive on quick and inventive learning, adapting to new challenges with ease.
+Hailing from the vibrant Dominican Republic. My passion lies in crafting exceptional user experiences through the art of front-end development. I'm an avid knowledge seeker, constantly exploring the latest trends and technologies. As a self-driven developer, I thrive on quick and inventive learning, adapting to new challenges with ease.
 
 Whether collaborating within a dynamic team or flying solo, I excel at delivering high-quality results.
 
